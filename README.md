@@ -32,7 +32,7 @@ SemGuide is a comprehensive web application designed specifically for the studen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/udayk2977/semguide.git
+   git clone https://github.com/rohit-110/SemGuide.git
    cd semguide
 2. **Install Dependencies:**
    ```bash
@@ -53,16 +53,8 @@ Ensure that the backend server is running and properly configured to handle auth
 
 ## Contact
 For any enquiries or support, please contact:
-- Email: [SemGuide@gmail.com](mailto:k7aditya@gmail.com)
+- Email: [SemGuide@gmail.com](mailto:rohitpandeyrp01@gmail.com)
 
-## Contributors
-- Aditya Khairnar
-- Siddhenthi Uday Kumar
-- Kushal Bansal
-- Jatavath Siddhartha Nayak
-- Nomula Suveeksha Reddy
-- Gajulapalli Sai Varshitha
-- Tammina Moulya
 
 
 
